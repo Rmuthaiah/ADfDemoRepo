@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "AzureDFDemoRad"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
