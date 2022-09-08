@@ -1,6 +1,7 @@
 {
-	"name": "pipeline1",
+	"name": "ADFFirstdemo",
 	"properties": {
+		"description": "First ADF Pipeline",
 		"annotations": []
 	}
 }
