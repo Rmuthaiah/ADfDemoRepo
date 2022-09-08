@@ -1,0 +1,9 @@
+{
+	"name": "AzureDFDemoRad",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "932b2a44-b3ff-4fe5-ad4d-93c16d0dcf2e",
+		"tenantId": "6c48f2b4-29e6-48df-b3ce-acdf473e709c"
+	}
+}
